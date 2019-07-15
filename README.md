@@ -42,3 +42,7 @@ The competition took place from  April, 4 2019 to June, 11 2019. I joined quite 
 - `DCASE2019_Challenge_technical_report.pdf` : Technical report submitted to the [DCASE 2019 Challenge](http://dcase.community/)
 - `modeling-kernel.ipynb` : Notebook that contains almost all our work, i.e. the training of different models. Also available [on Kaggle](https://www.kaggle.com/kernels/scriptcontent/15609045)
 
+## Data
+
+Data can be downloaded on the official Kaggle page : https://www.kaggle.com/c/freesound-audio-tagging-2019/data
+If you wish to rerun the notebook, the easiest way is to fork the Kaggle kernel.
