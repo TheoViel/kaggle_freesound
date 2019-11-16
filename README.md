@@ -37,6 +37,10 @@ We ended up **9th** out of 880.
 
 The competition took place from  April, 4 2019 to June, 11 2019. I joined quite late (early May), and merged with my teammates about 3 weeks before the end.
 
+## Solution Overview
+
+Our solution is described in detail here : https://www.kaggle.com/c/freesound-audio-tagging-2019/discussion/95409#latest-564043
+
 ## Repository 
 
 - `DCASE2019_Challenge_technical_report.pdf` : Technical report submitted to the [DCASE 2019 Challenge](http://dcase.community/)
